@@ -1,0 +1,65 @@
+Folder PATH listing
+Volume serial number is 980D-154E
+C:.
+|   estructura.txt
+|   README.md
+|   
++---M¢dulo 1
+|       Comprensi¢n de los datos tomados por un AMI.ipynb
+|       dataEj.csv
+|       Dataframes en python.ipynb
+|       El proceso de la ciencia de datos.PNG
+|       M¢dulo 1.ipynb
+|       Presentaciones-M¢dulo-01.pdf
+|       
++---M¢dulo 2
+|       Comprensi¢n de los datos.ipynb
+|       CRISP-DM.PNG
+|       Diagrama de ejes paralelos.PNG
+|       Diagrama de radar.PNG
+|       Mediciones.PNG
+|       Variables fisicas asociadas a la energia el‚ctrica.ipynb
+|       
++---M¢dulo 3
+|       Consumo de energ¡a el‚ctrica.ipynb
+|       Eficiencia.PNG
+|       Gr fica diaria con color semanal.PNG
+|       Preparaci¢n de datos de consumo.ipynb
+|       Preparaci¢n de los datos.ipynb
+|       Presentaciones-M¢dulo-03.pdf
+|       
++---M¢dulo 4
+|       Cadena de electricidad.PNG
+|       Clasificaci¢n de l¡neas de transmisi¢n.ipynb
+|       data-04.csv
+|       Descubrimiento de patrones-DESKTOP-TUGBC9I.ipynb
+|       Descubrimiento de patrones.ipynb
+|       ItemsetLattice.PNG
+|       Modelamiento de datos.ipynb
+|       Presentaciones-M¢dulo-04.pdf
+|       Transporte de energ¡a el‚ctrica.ipynb
+|       
++---M¢dulo 5
+|       Arbol_decision.PNG
+|       data-05.csv
+|       Descrubrimiento de explicaciones.ipynb
+|       festivos.csv
+|       Generaci¢n de energ¡a el‚ctrica.ipynb
+|       Pron¢stico de generaci¢n.ipynb
+|       Redes neuronales.ipynb
+|       Transformaciones_linealizadoras.PNG
+|       
+\---M¢dulo 6
+        Agentes_Plantas_Unidades.PNG
+        Analisis_Fourier.PNG
+        data-06.csv
+        Decomposition.PNG
+        Descomposicion_multiplicativa.PNG
+        Familia_Modelos.PNG
+        Horizontes_tiempo.PNG
+        Laboratorio Series de tiempo.ipynb
+        Mercados y comercializaci¢n de la energ¡a el‚ctrica.ipynb
+        Oferta_Demanda.PNG
+        Pronosticos_Demanda.PNG
+        Series de tiempo.ipynb
+        
